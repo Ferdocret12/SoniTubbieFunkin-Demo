@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-91,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicrackTubbie_Navidad_Assets",
+	"position": [
+		40,
+		30
+	],
+	"healthicon": "Soni_T",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		95,
+		235
+	],
+	"camera_position": [
+		30,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

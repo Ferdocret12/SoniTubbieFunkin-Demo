@@ -1,0 +1,32 @@
+{
+	"storyName": "IT's Sonitubbie!!!!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "S",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"fast_but_agile",
+			"ST-icon",
+			[
+				60,
+				60,
+				235
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "menuS"
+}

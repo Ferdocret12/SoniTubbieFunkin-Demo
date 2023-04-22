@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="no gf.png"><SubTexture name="bf-but-cool deadconfirm0000" x="0" y="0" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool deadconfirm0001" x="658" y="0" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool deadconfirm0002" x="1316" y="0" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool deadconfirm0003" x="1974" y="0" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool deadconfirm0004" x="2632" y="0" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool deadconfirm0005" x="3290" y="0" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0000" x="3948" y="0" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0001" x="0" y="732" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0002" x="658" y="732" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0003" x="1316" y="732" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0004" x="1974" y="732" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0005" x="2632" y="732" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0006" x="3290" y="732" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0007" x="3948" y="732" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0008" x="0" y="1464" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0009" x="658" y="1464" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0010" x="1316" y="1464" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0011" x="1974" y="1464" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0012" x="2632" y="1464" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dies0013" x="3290" y="1464" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dead loop0000" x="3948" y="1464" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dead loop0001" x="0" y="2196" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dead loop0002" x="658" y="2196" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dead loop0003" x="1316" y="2196" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool dead loop0004" x="1974" y="2196" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool down0000" x="2632" y="2196" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool down0001" x="3290" y="2196" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool down0002" x="3948" y="2196" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missDown0000" x="0" y="2928" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missDown0001" x="658" y="2928" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missDown0002" x="1316" y="2928" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool idle0000" x="1974" y="2928" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool idle0001" x="2632" y="2928" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool idle0002" x="3290" y="2928" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool idle0003" x="3948" y="2928" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool idle0004" x="0" y="3660" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool lef0000" x="658" y="3660" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool lef0001" x="1316" y="3660" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool lef0002" x="1974" y="3660" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missLeft0000" x="2632" y="3660" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missLeft0001" x="3290" y="3660" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missLeft0002" x="3948" y="3660" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool right0000" x="0" y="4392" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool right0001" x="658" y="4392" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool right0002" x="1316" y="4392" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missRight0000" x="1974" y="4392" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missRight0001" x="2632" y="4392" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missRight0002" x="3290" y="4392" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool up0000" x="3948" y="4392" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool up0001" x="0" y="5124" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool up0002" x="658" y="5124" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missUp0000" x="1316" y="5124" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missUp0001" x="1974" y="5124" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+<SubTexture name="bf-but-cool missUp0002" x="2632" y="5124" width="658" height="732" frameX="0" frameY="0" frameWidth="658" frameHeight="732" />
+</TextureAtlas>
